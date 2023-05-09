@@ -1,2 +1,2 @@
-# CSSPractice
+# practice
 Practicing CSS
