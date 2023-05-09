@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+  }
+
+  p {
+    color: rgb(31, 136, 31);
+    width: 500px;
+    border: 1px solid black
+  }
+  li {
+    list-style-type: square;
+  }
